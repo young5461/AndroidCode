@@ -1,2 +1,2 @@
 # AndroidCode
-just androidcode
+These are just androidCode！
